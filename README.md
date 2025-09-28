@@ -27,12 +27,20 @@ You can acess my udemy-clone project by visiting () free to explore the content 
 - Google Fonts  
 
 🔹 Folder Structure
-
    project-folder/
 
 ├── index.html # Main HTML file
 ├── style.css # Styling for the project
 ├── images/ # Images for courses and sections
 └── README.md # Project documentation
+
+
+
+
+
+
+
+
+
 
 
