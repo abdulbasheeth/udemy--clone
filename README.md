@@ -16,7 +16,7 @@ A Udemy-inspired course website clone built with HTML, CSS, and Font Awesome, de
 
  🔹 How to view
 
-You can acess my udemy-clone project by visiting () free to explore the content and get in touch!
+You can acess my udemy-clone project by visiting (https://abdulbasheeth.github.io/udemy--clone/) free to explore the content and get in touch!
 
 
  🔹 Technologies Used
