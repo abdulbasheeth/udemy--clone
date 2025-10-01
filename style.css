@@ -54,6 +54,25 @@ body {
     text-align: center;
 }
 
+.mylearning__popup{
+  position: absolute;
+  background-color: white;
+  width:180px;
+  border-radius: 50px;
+  top: 30px;
+background-color: lightskyblue;
+  padding: 5px;
+  right: 0;
+  display: none;
+}
+.my-learning{
+     position: relative;
+}
+
+.my-learning:hover .mylearning__popup{
+    display: block;
+}
+
 .categories {
     display: flex;
     gap: 20px;
